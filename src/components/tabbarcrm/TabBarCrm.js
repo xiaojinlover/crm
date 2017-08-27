@@ -17,8 +17,7 @@ class TabBarCrm extends React.Component {
         <TabBar.Item
           title="首页"
           key="首页"
-//          icon={<Icon type="up"/>}
-		  icon = {<Icon type="home" />}
+		  icon = {<Icon type="home" style={{height:"28"}} />}
           selectedIcon={<div style={{
             width: 28,
             height: 28,
