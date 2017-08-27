@@ -7,9 +7,6 @@ class TabBarCrm extends React.Component {
       selectedTab: 'redTab'     
     };
   } 
-
-
-
   render() {
     return (
       <TabBar
